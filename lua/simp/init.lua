@@ -1,7 +1,3 @@
---- TODO: Add in a function for setting the vim.g.simps_leader
---- iterate through a table.
---- { }
-
 local map = vim.api.nvim_set_keymap
 local opts = { noremap = true, silent = true }
 
